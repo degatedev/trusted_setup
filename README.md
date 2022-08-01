@@ -5,7 +5,7 @@ We use a very similar method of contributing as in [phase 1](https://github.com/
 
 ## Ceremony progress
 
-Berg Jefferson (email: berg@dgfans.io, keybase: bergjefferson) will be the main coordinator.
+Berg Jefferson (email: berg@dgfans.io, keybase: [bergjefferson](https://keybase.io/bergjefferson)) will be the main coordinator.
 
 The ceremony occurs in sequential rounds. Each participant performs one or more rounds at a time. The coordinator decides the order in which the participants act. There can be an indefinite number of rounds.
 
