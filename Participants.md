@@ -40,19 +40,19 @@ In order to contribute in the computation and output signing, participants will 
 
 Please create a 200 GB swap space.
 
-```
+```console
 # Create a file that will be used for swap
 sudo fallocate -l 200G /swapfile 
 ```
-```
+```console
 # To set the correct permissions type
 sudo chmod 600 /swapfile
 ```
-```
+```console
 # Use the mkswap utility to set up the file as Linux swap area
 sudo mkswap /swapfile 
 ```
-```
+```console
 # Enable the swap 
 sudo swapon /swapfile 
 ```
@@ -76,10 +76,17 @@ The example below assumes the role of the second participant. Please ensure to r
 ### Step1: Retrieving & Configuring SFTP Private Key file
 1. The SFTP private key file can be retrieved from the participant via Keybase (For the second participant, the file is named sftpuser2.key)
 2. In the server, create /opt/trustmount directory
-`sudo mkdir -p /opt/trustmount`
+
+```console
+sudo mkdir -p /opt/trustmount
+```
+
 3. Transfer the private key file to the /opt/trustmount/ directory. Upload the private key file from the second participant's local mac to the server. 
 For example: Open the terminal, execute the following command in the directory where the private key file is located to upload the private key file (each participant to replace sftpuser2.key with their designated private key file)
- `scp sftpuser2.key serverusername@serverIP:/opt/trustmount/.`
+ 
+ ```console
+ scp sftpuser2.key serverusername@serverIP:/opt/trustmount/.
+ ```
 
 
 ### Step2: Initiate Container to Perform Computation
