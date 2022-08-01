@@ -43,14 +43,17 @@ Please create a 200 GB swap space.
 ```
 # Create a file that will be used for swap
 sudo fallocate -l 200G /swapfile 
-
-#To set the correct permissions type
+```
+```
+# To set the correct permissions type
 sudo chmod 600 /swapfile
-
-#Use the mkswap utility to set up the file as Linux swap area 
+```
+```
+# Use the mkswap utility to set up the file as Linux swap area
 sudo mkswap /swapfile 
-
-#Enable the swap 
+```
+```
+# Enable the swap 
 sudo swapon /swapfile 
 ```
 To verify that the swap is active, use free command as shown below:
@@ -60,7 +63,7 @@ sudo free -h
 For details, please refer to this [tutorial](https://linuxize.com/post/create-a-linux-swap-file/). 
 
 ### Installation of Docker
-1. Install/Start Docker on Ubuntu
+Install/Start Docker on Ubuntu
 ```console
 sudo apt update && sudo apt install docker.io -y && sudo systemctl enable docker && sudo systemctl start docker
 ```
