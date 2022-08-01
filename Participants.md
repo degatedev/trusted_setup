@@ -24,10 +24,6 @@ In order to contribute in the computation and output signing, participants will 
 ### Server Specifications
 1. **Minimum specifications:** CPU 4 cores / memory 16 GB / disk space 1T
     
-    Please create a 200 GB swap space.
-    
-    To create a Swap space on linux, please refer to this [tutorial](https://linuxize.com/post/create-a-linux-swap-file/). 
-> If the server memory is greater than 256 GB, it is not necessary to create a swap space.
 
 2. **Recommended Models**: 
     
@@ -38,6 +34,30 @@ In order to contribute in the computation and output signing, participants will 
 4. **Recommended OS:** 
    
     Ubuntu 20.04
+    
+    
+### Create a Swap space
+
+Please create a 200 GB swap space.
+
+```
+# Create a file that will be used for swap
+sudo fallocate -l 200G /swapfile 
+
+#To set the correct permissions type
+sudo chmod 600 /swapfile
+
+#Use the mkswap utility to set up the file as Linux swap area 
+sudo mkswap /swapfile 
+
+#Enable the swap 
+sudo swapon /swapfile 
+```
+To verify that the swap is active, use free command as shown below:
+```console
+sudo free -h 
+```
+For details, please refer to this [tutorial](https://linuxize.com/post/create-a-linux-swap-file/). 
 
 ### Installation of Docker
 1. Install/Start Docker on Ubuntu
