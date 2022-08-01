@@ -11,6 +11,7 @@ mkdir -p /data/sftp/sftpuser2
 mkdir -p /data/sftp/sftpuser3
 mkdir -p /data/sftp/sftpuser4
 mkdir -p /data/sftp/sftpuser5
+mkdir -p /data/sftp/sftpuser6
 
 /usr/sbin/groupadd sftpgroup
 /usr/sbin/useradd -g sftpgroup -d /home/sftpuser1 -m sftpuser1
@@ -53,3 +54,5 @@ cp /home/sftpuser6/.ssh/id_rsa /data/sftpkey/sftpuser6.key && chmod 600 /data/sf
 /usr/bin/chmod 350 -R /data/sftp/sftpuser4
 /usr/bin/chown sftpuser5:sftpgroup -R /data/sftp/sftpuser5
 /usr/bin/chmod 350 -R /data/sftp/sftpuser5
+/usr/bin/chown sftpuser6:sftpgroup -R /data/sftp/sftpuser6
+/usr/bin/chmod 350 -R /data/sftp/sftpuser6
