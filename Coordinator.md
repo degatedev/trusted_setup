@@ -253,11 +253,17 @@ Enter into `phase2-bn254/loopring/` directory and execute the command:
 > SHA256 hash of previous contribution: <previous hash>
 > 
 > Circuit 1/6:
+> 
 > Circuit 2/6:
+> 
 > Circuit 3/6:
+> 
 > Circuit 4/6:
+> 
 > Circuit 5/6:
+> 
 > Circuit 6/6:
+> 
 > Circuit 7/7:
 > Done! Contribution x is valid! #x is the verified participant serial number
 > 
