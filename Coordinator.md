@@ -265,6 +265,7 @@ Enter into `phase2-bn254/loopring/` directory and execute the command:
 > Circuit 6/6:
 > 
 > Circuit 7/7:
+>
 > Done! Contribution x is valid! #x is the verified participant serial number
 > 
 > 
