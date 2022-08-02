@@ -185,7 +185,7 @@ PLEASE UPDATE THIS SECTION WHERE NEEDED (EVERYTHING BETWEEN <>)
 <
  I added my contribution details to `attestion.txt`
  I signed my contribution using keybase
- I uploaded `loopring_mpc_NNNN.zip` to the server using the `sftp` CLI tool.
+ I uploaded `loopring_mpc_NNNN.zip` to the server.
  I rebooted my machine.
 >
  
