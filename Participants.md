@@ -75,10 +75,11 @@ The example below assumes the role of the second participant. Please ensure to r
 
 ### Step1: Retrieving & Configuring SFTP Private Key file
 1. The SFTP private key file can be retrieved from the participant via Keybase (For the second participant, the file is named sftpuser2.key)
-2. In the server, create /opt/trustmount directory
+2. Log in the server, create /opt/trustmount directory and set permissions type
 
 ```console
 sudo mkdir -p /opt/trustmount
+sudo chmod 777 -R /opt/trustmount
 ```
 
 3. Transfer the private key file to the /opt/trustmount/ directory. Upload the private key file from the second participant's local mac to the server. 
