@@ -141,6 +141,7 @@ sudo docker logs trust
 ```
 
 3. Completed logs
+
 The computation is successfully completed when the last line of the script log is displayed as follows:
 > Step 5 : Upload contribution file success, please fill in the information into your attestation.txt
 
