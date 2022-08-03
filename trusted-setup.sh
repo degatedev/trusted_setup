@@ -46,6 +46,7 @@ sleep 30
 ls ${file_path}/loopring_mpc_000${contribution_number}.zip
 if [ $? != 0 ]
 then
+    grep "Starting from contribution" /opt/phase2-bn254/loopring/attestation.txt 2>&1 | tee >> /opt/trustmount/trusted-setup.log
     echo "Step 3 : contribution error,please contact coordinator" 2>&1 | tee >> /opt/trustmount/trusted-setup.log
     exit 1
 fi
