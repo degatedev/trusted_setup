@@ -83,6 +83,7 @@ sudo chmod 777 -R /opt/trustmount
 ```
 
 3. Transfer the private key file to the /opt/trustmount/ directory. Upload the private key file from the second participant's local mac to the server. 
+
 For example: Open the terminal on local mac, execute the following command in the directory where the private key file is located to upload the private key file (each participant to replace sftpuser2.key with their designated private key file)
  
  ```console
