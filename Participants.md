@@ -12,8 +12,8 @@ At any point in time if the participant encounters any form of difficulties duri
 
 ## Get Ready Before Your Participation
 
-1. Make a [Keybase](https://keybase.io/) account and link it to your twitter or github account so people can be sure it's actually you that participated. Install the [Keybase Desktop Software](https://keybase.io/docs/the_app/install_macos) which wil be used to sign the attestation.
-1. Using your Keybase software, join a team called [**degateceremony**](https://keybase.io/team/degateceremony), this is the official communication channel, but we'll also collect another IM account of yours to inform you when your trun is coming up.
+1. Make a [Keybase](https://keybase.io/) account and link it to your twitter or github account so people can be sure it's actually you that participated. Install the [Keybase Desktop Software](https://keybase.io/docs/the_app/install_macos) which will be used to sign the attestation.
+1. Using your Keybase software, join a team called [**degateceremony**](https://keybase.io/team/degateceremony), this is the official communication channel, but we'll also collect another IM account of yours to inform you when your turn is coming up.
 
 
 ## Participants Hardware Requirements
