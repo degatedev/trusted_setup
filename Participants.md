@@ -134,7 +134,7 @@ The logs can be viewed by:
 
 1. Use this command to check the script log to trace the stage of execution
 ```console
-sudo cat /opt/trustmount/trusted-setup.log
+sudo tail -f /opt/trustmount/trusted-setup.log
 ```
 2. Use this command to check the active container logs
 ```console
