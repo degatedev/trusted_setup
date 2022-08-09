@@ -39,7 +39,7 @@ then
 fi
 
 #Start contribution
-echo "`date "+%Y-%m-%d %H:%M:%S"` Step 3 : Starting contribution, it will take 10-15 minutes to run hash check. Please wait......" 2>&1 | tee >> /opt/trustmount/trusted-setup.log
+echo "`date "+%Y-%m-%d %H:%M:%S"` Step 3 : Starting contribution, it will take 10-15 minutes to run hash check. Please wait..." 2>&1 | tee >> /opt/trustmount/trusted-setup.log
 cd ${file_path} && /usr/bin/python3 ${file_path}/contribute.py $previous_contribution_hash $random_text 2>&1 | tee >> /opt/trustmount/trusted-setup.log
 
 sleep 30
@@ -77,4 +77,4 @@ if [ ! -n "$exit_file" ];then
 fi
 
 cp ${file_path}/attestation.txt /opt/trustmount/attestation.txt
-echo "`date "+%Y-%m-%d %H:%M:%S"` Step 5 : Upload contribution file success, please fill in the information into your attestation.txt" 2>&1 | tee >> /opt/trustmount/trusted-setup.log
+echo "`date "+%Y-%m-%d %H:%M:%S"` Step 5 : Upload contribution file success." 2>&1 | tee >> /opt/trustmount/trusted-setup.log
