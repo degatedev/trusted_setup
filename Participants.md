@@ -22,12 +22,17 @@ In order to contribute in the computation and output signing, participants will 
 
 
 ### Server Specifications
-1. **Minimum specifications:** CPU 4 cores / memory 16 GB / disk space 1T
-    
+1. **Specifications:** 
 
+    Minimum: CPU 4 cores / memory 16 GB / disk space 1T 
+    
+    Preferred: CPU 32 cores / memory 128 GB / disk space 1T 
+    
 2. **Recommended Models**: 
     
-    AWS (m5.xlarge) / Azure (D4s_v3) / GCP (e2-standard-4)
+    Minimum:  AWS (m5.xlarge) / Azure (D4s_v3) / GCP (e2-standard-4)
+    
+    Preferred: AWS (m5.8xlarge) / Azure (D32as_v4) / GCP (e2-standard-32)
 3. **Recommended Server Location:** 
   
     Singapore (Same region as SFTP)
