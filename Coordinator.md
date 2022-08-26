@@ -285,6 +285,8 @@ Compile `phase2-bn254/phase2` directory.
 
 Execute the following command in the `phase2-bn254/loopring` directory.
 
+`mkdir /opt/trustmount`
+ 
 `python3 contribute.py beacon`
 
 This step generates the final `loopring_mpc_000x.zip` file where x= the sequence number of the last participant + 1. This execution process will take approximately 3 hours.
