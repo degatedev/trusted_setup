@@ -135,7 +135,7 @@ sudo docker run --name trust -v /opt/trustmount:/opt/trustmount -itd degate/trus
 
 #### Check Execution Log
     
-The estimated duration to excute the Docker run command is approximately 20 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
+The estimated duration to excute the Docker run command is approximately 14 hours if using preferred server specification. To avoid computation failure due to remote disconnection, the process will run in the background.
     
 The logs can be viewed by:
 
