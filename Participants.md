@@ -20,7 +20,7 @@ At any point in time if the participant encounters any form of difficulties duri
 
 In order to contribute in the computation and output signing, participants will need to prepare a Server and a Mac machine. 
 
-If you are using AWS cloud servers, you can simplify the configuration and execution of the entire process using AWS CloudFormation. See details at: [Instructions for Participants using AWS CloudFormation](https://github.com/degatedev/trusted_setup/blob/master/Participants%20using%20AWS%20CloudFormation.md)
+**If you are using AWS cloud servers, you can simplify the configuration and execution of the entire process using AWS CloudFormation. See details at: [Instructions for Participants using AWS CloudFormation](https://github.com/degatedev/trusted_setup/blob/master/Participants%20using%20AWS%20CloudFormation.md)**
 
 
 ### Server Specifications
