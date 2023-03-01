@@ -81,9 +81,10 @@ The SFTP private key file can be retrieved from the coordinator via Keybase.
 The script then starts a container and completes the generation of the contribution file in the background. 
 ![](https://i.imgur.com/2YSc0kY.gif)
 
+
 #### Check Execution Log
     
-The estimated duration to excute the command is approximately 14 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
+The estimated duration to excute the Docker run command is approximately 20 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
     
 The logs can be viewed by:
 
@@ -91,11 +92,16 @@ The logs can be viewed by:
 ```console
 sudo tail -f /opt/trustmount/trusted-setup.log
 ```
+2. Use this command to check the active container logs
+```console
+sudo docker logs trust
+```
 
-2. Completed logs
+3. Completed logs
 
 The computation is successfully completed when the last line of the script log is displayed as follows:
 > Step 5 : Upload contribution file success, please fill in the information into your attestation.txt
+
 
 
 ### Step3: Edit & Refine Content of attestation.txt
