@@ -26,15 +26,15 @@ If you are using AWS cloud servers, you can simplify the configuration and execu
 ### Server Specifications
 1. **Specifications:** 
 
-    Minimum: CPU 4 cores / memory 16 GB / disk space 1T 
+    Minimum: CPU 4 cores / memory 16 GB / disk space 1.5T 
     
-    Preferred: CPU 32 cores / memory 128 GB / disk space 1T 
+    Preferred: CPU 32 cores / memory 128 GB / disk space 1.5T 
     
 2. **Recommended Models**: 
     
-    Minimum:  AWS (m5.xlarge) / Azure (D4s_v3) / GCP (e2-standard-4)
+    Minimum:  AWS (m6i.xlarge) / Azure (D4s_v3) / GCP (e2-standard-4)
     
-    Preferred: AWS (m5.8xlarge) / Azure (D32as_v4) / GCP (e2-standard-32)
+    Preferred: AWS (m6i.8xlarge) / Azure (D32as_v4) / GCP (e2-standard-32)
 3. **Recommended Server Location:** 
   
     Singapore (Same region as SFTP)
@@ -45,11 +45,11 @@ If you are using AWS cloud servers, you can simplify the configuration and execu
     
 ### Create a Swap space
 
-Please create a 200 GB swap space.
+Please create a 300 GB swap space.
 
 ```console
 # Create a file that will be used for swap
-sudo fallocate -l 200G /swapfile 
+sudo fallocate -l 300G /swapfile 
 ```
 ```console
 # To set the correct permissions type
