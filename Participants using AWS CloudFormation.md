@@ -11,7 +11,8 @@ Before proceeding, you will need to have an AWS account. Here are the steps to[ 
 ### 2. Create Key Pair
 Additionally, you will need a public-private key pair for logging into the EC2 instance. If you don't already have one, you can create a key pair in the [Create a key pair](https://ap-southeast-1.console.aws.amazon.com/ec2/home?region=ap-southeast-1#CreateKeyPair) section. 
 
-Please also download the pem format private key file into your local machine for further use. If the downloaded file extension is cer, please manually [rename it to pem](https://stackoverflow.com/questions/23225112/amazon-aws-ec2-getting-a-cer-file-instead-of-pem).
+Please also download the pem format private key file into your local machine for further use. 
+If the downloaded file extension is cer, please manually [rename it to pem](https://stackoverflow.com/questions/23225112/amazon-aws-ec2-getting-a-cer-file-instead-of-pem).
 
 ![](https://i.imgur.com/ulGOhWc.gif)
 
