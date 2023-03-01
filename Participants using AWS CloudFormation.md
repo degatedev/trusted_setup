@@ -83,7 +83,7 @@ The script then starts a container and completes the generation of the contribut
 
 #### Check Execution Log
     
-The estimated duration to excute the Docker run command is approximately 14 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
+The estimated duration to excute the command is approximately 14 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
     
 The logs can be viewed by:
 
