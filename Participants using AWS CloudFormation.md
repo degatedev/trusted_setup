@@ -26,7 +26,7 @@ After waiting for the CloudFormation stack creation to complete, you can view th
 ![](https://i.imgur.com/pA0OwIS.gif)
 
 
-## Step2. Excute To Generate Contribution File
+## Step2. Execute To Generate Contribution File
 
 ### 1. Copy the IPv4 Public IP of EC2
 Click on the "EC2" service, and then click on "Instances" in the left sidebar. Select the newly created EC2 instance from the list of instances.
@@ -84,7 +84,7 @@ The script then starts a container and completes the generation of the contribut
 
 #### Check Execution Log
     
-The estimated duration to excute the Docker run command is approximately 20 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
+The estimated duration to execute the Docker run command is approximately 20 hours. To avoid computation failure due to remote disconnection, the process will run in the background.
     
 The logs can be viewed by:
 
