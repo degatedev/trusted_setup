@@ -144,7 +144,7 @@ Upload every participant's `signed_attestation_000[x].txt` to [github](https://g
 
 Repeat the process of communication and verification until the last participant's computation has been completed.
 
-*Note: The contribution verication will take 70 hours - once the last participant has completed the signing, multiple machines will be used for parallel execution of the contribution verification
+*Note: The contribution verification will take 70 hours - once the last participant has completed the signing, multiple machines will be used for parallel execution of the contribution verification
 
 
 ### Verify the Contribution File of Every Participant
@@ -240,11 +240,11 @@ Enter into `phase2-bn254/loopring/` directory and execute the command:
 > 
 > To verify the first participant, the command is `nohup python3 verify_contribution.py 1` &
 > 
-> To verify the first participant, the command is `nohup python3 verify_contribution.py 2` &
+> To verify the second participant, the command is `nohup python3 verify_contribution.py 2` &
 > 
 > etc...
 > 
-> To verify the first participant, the command is `nohup python3 verify_contribution.py 6` &
+> To verify the 6th participant, the command is `nohup python3 verify_contribution.py 6` &
 > 
 > Once the verification is completed, the following log information will be outputted:
 > 
@@ -274,7 +274,7 @@ Enter into `phase2-bn254/loopring/` directory and execute the command:
 ### Execute Final Beacon Contribution
 A beacon contribution is needed to be executed once the last participant file is completed (similar to the initialization beacon contribution).
     
-The coordinator needs to make a public announcement of the furture selected bitcoin hash that will be the parameter for the random beacon used by `phase2-bn254` on DeGate's Twitter account a few hours before final beacon contribution.
+The coordinator needs to make a public announcement of the future selected bitcoin hash that will be the parameter for the random beacon used by `phase2-bn254` on DeGate's Twitter account a few hours before final beacon contribution.
 
     
 Once the block is mined, place the block hash to the `cur_hash` parameter of `phase2-bn254/phase2/src/bin/beacon.rs`
