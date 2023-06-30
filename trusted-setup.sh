@@ -10,7 +10,7 @@ mount_path="/opt/trustmount"
 
 #Download and Compile source code
 echo "`date "+%Y-%m-%d %H:%M:%S"` Step 1 : Downloading and Compile source code" 2>&1 | tee >> /opt/trustmount/trusted-setup.log
-cd /opt/ && /usr/bin/git clone https://github.com/degatedev/phase2-bn254.git && cd /opt/phase2-bn254/phase2 && /root/.cargo/bin/cargo build --release
+cd /opt/ && /usr/bin/git clone -b degate1.1.0 https://github.com/degatedev/phase2-bn254.git && cd /opt/phase2-bn254/phase2 && /root/.cargo/bin/cargo build --release
 
 sleep 30
 ls /opt/phase2-bn254/phase2/target

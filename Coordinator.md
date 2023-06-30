@@ -31,7 +31,7 @@ Rust and Cargo, please refer to https://www.rust-lang.org/learn/get-started
 Download the response of the latest participant from [phase 1](https://github.com/weijiekoh/perpetualpowersoftau/blob/master/0071_edward_response/README.md) into `phase2-bn254/loopring`. Rename the file to `response`.
 
 #### 5）Deploy SFTP Server
-SFTP is used for the automatic transfer and backup files from the participants executed scripts. Use [this script](https://github.com/degatedev/trusted_setup/blob/master/sftp.sh).
+SFTP is used for the automatic transfer and backup files from the participants executed scripts. Use [this script](https://github.com/degatedev/trusted_setup/blob/degate1.1.0/sftp.sh).
 
 
 ### General Preparation
@@ -55,8 +55,8 @@ The coordinator needs to make a public announcement of the furture selected bitc
 ##### 1）Download the 2 projects in the same folder
 
 ```
-git clone https://github.com/degatedev/protocols --branch degate1.0.0
-git clone https://github.com/degatedev/phase2-bn254
+git clone https://github.com/degatedev/protocols --branch degate1.1.0
+git clone https://github.com/degatedev/phase2-bn254 --branch degate1.1.0
 ```
 
 
@@ -140,7 +140,7 @@ Open [https://keybase.io/verify](https://keybase.io/verify) in the browser and m
 
 
 #### 2）Uploading of participant's signed_attestation files
-Upload every participant's `signed_attestation_000[x].txt` to [github](https://github.com/degatedev/trusted_setup/signed_attestation/)
+Upload every participant's `signed_attestation_000[x].txt` to [github](https://github.com/degatedev/trusted_setup/tree/degate1.1.0/signed_attestation/)
 
 Repeat the process of communication and verification until the last participant's computation has been completed.
 
@@ -180,7 +180,7 @@ Rust and Cargo, please refer to https://www.rust-lang.org/learn/get-started
 
 ```
 git clone https://github.com/degatedev/protocols --branch degate1.0.0
-git clone https://github.com/degatedev/phase2-bn254
+git clone https://github.com/degatedev/phase2-bn254 --branch degate1.0.0
 ```
 
 

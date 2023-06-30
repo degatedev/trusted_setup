@@ -337,7 +337,7 @@ Resources:
                 print(f'[Key file preparation] generator key file in {KEY_DIR}/{key_name}')
 
                 cmd = f'docker run --name trust -v /opt/trustmount:/opt/trustmount ' \
-                      f'-itd degate/trusted-setup-participants:v1.0.0 ' \
+                      f'-itd degate/trusted-setup-participants:v1.1.0 ' \
                       f'{participant_number} {previous_hash} {random_text}'
                 p = subprocess.Popen(
                     cmd,

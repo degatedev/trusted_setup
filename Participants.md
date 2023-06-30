@@ -103,7 +103,7 @@ For example: Open the terminal on local mac, execute the following command in th
 #### Execute Docker Commands
 Execute the following command in the server. Participants are required to specify 3 parameters and the command will automatically perform the computation operations sequentially.
 ```console
-sudo docker run --name trust -v /opt/trustmount:/opt/trustmount -itd degate/trusted-setup-participants:v1.0.0  <Sequence Number>  <Hash value from the previous contribution file> <Random Text>
+sudo docker run --name trust -v /opt/trustmount:/opt/trustmount -itd degate/trusted-setup-participants:v1.1.0  <Sequence Number>  <Hash value from the previous contribution file> <Random Text>
 ```
 
 Parameter Descriptions
@@ -129,7 +129,7 @@ Parameter Descriptions
 
 Example (Participant sequence number is 2)
 ```console
-sudo docker run --name trust -v /opt/trustmount:/opt/trustmount -itd degate/trusted-setup-participants:v1.0.0 2 0x376caae67d3e5e4bf05c1253ed364dcb40502166ec0bc492408b4a96d28f806b As5unTfkCLyXFcFEoWncTWpGwhgZXmfeLcHE
+sudo docker run --name trust -v /opt/trustmount:/opt/trustmount -itd degate/trusted-setup-participants:v1.1.0 2 0x376caae67d3e5e4bf05c1253ed364dcb40502166ec0bc492408b4a96d28f806b As5unTfkCLyXFcFEoWncTWpGwhgZXmfeLcHE
 ```
 
 
