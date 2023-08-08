@@ -1,0 +1,102 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Attestation to contribution <0001>
+================================
+
+PLEASE UPDATE THIS SECTION WHERE NEEDED (EVERYTHING BETWEEN <>)
+
+**Name:**
+<guoyu>
+
+**Date:**
+<13-14 July 2023>
+
+**Location:**
+<Singapore>
+
+**Device:**
+<AWS m6i.8xlarge 2000GB Disk - Ubuntu 20.04.4 LTS>
+
+**Entropy sources:**
+</dev/urandom>
+
+**Side channel defences:**
+<None>
+
+**Postprocessing:**
+<
+- - I added my contribution details to `attestion.txt`
+- - I signed my contribution using `python3 sign_attestation.py`
+- - I uploaded `loopring_mpc_0001.zip` and `signed_attestation.txt` to the server using the `sftp` CLI tool.
+- - I rebooted my machine.
+>
+
+**Misc notes:**
+<None>
+
+
+!!!Don't modify anything from this point on!!!
+- ----------------------------------------------
+Contributing to circuit 1/10...
+Contributing to params/params_all_5.params...
+Contribution hash: 0x4d5342640cde2c13403ebd21c8f40c48f7954864e734e0456e31cbc79aa663660fe629bc7f0588fa6e1b86fee0bc3409af05506342c745a8697fb09222f3fbb0
+Writing parameters to params/params_all_5.params.
+Contributing to circuit 2/10...
+Contributing to params/params_all_10.params...
+Contribution hash: 0xc25687242e234b87156d1bdbec831e669c26745fb8cd72ed1b4b97131abe45b9197480c211c04864da0ab3f19b940ec62c479589567c600a1ac7f0c9b9ff513d
+Writing parameters to params/params_all_10.params.
+Contributing to circuit 3/10...
+Contributing to params/params_all_25.params...
+Contribution hash: 0x4237e98f1c7e90dd113f5e5337e9c8e237be3fd6b4cecc77015c09909387b2a2fa168a6effbf2ed0d1b423c225f413f49cc4c437aac95f4972acf6916c713334
+Writing parameters to params/params_all_25.params.
+Contributing to circuit 4/10...
+Contributing to params/params_all_50.params...
+Contribution hash: 0x74463acc0116708e20373c5cb31f81a41d7548b8bf2e80d734db28fb3845950fc8e82f6664fbd63041d890198fb568590ae0a8c4961697e419043414dbd6322d
+Writing parameters to params/params_all_50.params.
+Contributing to circuit 5/10...
+Contributing to params/params_all_100.params...
+Contribution hash: 0x6a06b97f7b062d9e8608378cce553d8225240e75cb06301a294ad9d7860c4f1e7ab232c03aa058cd0136745b43908c4ac07217b75bce0c1560697972777bad41
+Writing parameters to params/params_all_100.params.
+Contributing to circuit 6/10...
+Contributing to params/params_all_150.params...
+Contribution hash: 0x44007ce642a8a6b29abf871aedfe02e6acc6bd7b6580fecde5de36a5cc3025c14304c208b7a5337d4ad9f98db11899c2a4d05cb9ba0a0722c06a10189600994f
+Writing parameters to params/params_all_150.params.
+Contributing to circuit 7/10...
+Contributing to params/params_all_200.params...
+Contribution hash: 0xe309e04329a61e6e37746cab5005bd61091269229343d735d4ab38da302bda0b48bfd72dce0a7be76e0c3e5193dc646f48f0d618a5f320cbb5c494d83b309b22
+Writing parameters to params/params_all_200.params.
+Contributing to circuit 8/10...
+Contributing to params/params_all_250.params...
+Contribution hash: 0x5e7b764f7785af5cfdfa5cbf7df206e60f53f131ace56a0aa2ff64ad3ce9bac3e40cfb0eb0f4106c880a9d97410c107ea2d136e2033ac0c943d9c60dc24c74f9
+Writing parameters to params/params_all_250.params.
+Contributing to circuit 9/10...
+Contributing to params/params_all_300.params...
+Contribution hash: 0x2b4a089a49e45a803cb875c232116bb7d8e294567334824c39162a4ed1fa0032550e84cad53f029a79b02215a1422c505ecada89ce551fa8fc6f66693abbb619
+Writing parameters to params/params_all_300.params.
+Contributing to circuit 10/10...
+Contributing to params/params_all_355.params...
+Contribution hash: 0x4d754292084943a68a961ead78664caeda8bec8e4608670d5af9d73620bd71d5df7ef394b12bac72511c3575c66544f16fd2820e561e3dd2f132c513dca907f3
+Writing parameters to params/params_all_355.params.
+
+Done! Thank you for contributing as participant 1!
+Your contribution has SHA256 hash 0x63caa65faf46daa8795896266f5d007d0ce890d2fdd1d8d199abc2b4b6dffd02
+Please upload 'loopring_mpc_0001.zip'.
+Also please download and fill out 'attestation.txt' on your local Mac and sign it by running 'keybase pgp sign --clearsign -i attestation.txt -o signed_attestation.txt' and send us 'signed_attestation.txt'.
+Contributing took 48830.45303583145 seconds.
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCAAQBQJksMhDCRAEnZmZeo4gFgAAPO0QAEywOYVJ90vv+v3MHO29cE4D
+IOpGiRD3XafPubgmBweG7QwQ+fWlU/j1CX6lgW2voiHqJUSbNNI5vAJ56l6yl38k
+WFfe90c1/dnz6EJcFsvVNRyjs5JeFDThi0HjjeypttwWJ8lAu2SJ4vbz2B/y91sN
+aR8SJJtXwL9MSLf2X+jtE7rvuznF4QSsdIagh4Gw/yhwiBymxxTTaR7deBkqmvQ4
+skFU+bfFk7RKcsat34uFnq7Kh1kdok6/8A3pzuaJGNCcdNyEJ6Ok0XVx3hwUACY6
+XQ88RXjGvNciZLzgP8cKiD6+xIm6Em1JSHiPdBZ3pfr0KcSKd1oECmeJO4q89fEE
+uqNrq4AmsORVNyIdh3fYwiJKRjC+YBy4eFUqIkAy1UJIc5ER5yzCDii5PRRzq2et
+N09ZiLeDrSmvlH49AW/7o2cp1qyBXSS4KxbwOzg0x4uRolFGbdPF5K+aeEJtb26s
+Yvsbwuko72ICNTcx4O/5iV6eCxHG2OOl8hUdLONjdWYCqYh0Kqegv29u4kAS4iw3
+I4zzwdMFqj7SfS3hSIUeSwGcBkvmJi8aeuQOwi+nH56XYdRI5A5MON0cXFfGIMPM
+IyLx6gXSP4EsPTXhOWx3+HAj9DdcGRZEmd0XDW7zkptEXna1QgbLN9onfE14WCfm
+TZB+KbiGFsKdvLbUsUrG
+=aftw
+-----END PGP SIGNATURE-----

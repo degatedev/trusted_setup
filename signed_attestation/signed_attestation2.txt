@@ -1,0 +1,84 @@
+Attestation to contribution <0002>
+================================
+
+PLEASE UPDATE THIS SECTION WHERE NEEDED (EVERYTHING BETWEEN <>)
+
+**Name:**
+<Shannon Ewing>
+
+**Date:**
+<14-15 July 2023>
+
+**Location:** 
+<Paris, France>
+
+**Device:**
+<AWS m6i.8xlarge Ubuntu 20.04.4 LTS>
+
+**Entropy sources:**
+<Key mashing, bitcoin hashes>
+
+**Side channel defences:**
+<None>
+
+**Postprocessing:**
+<
+- I uploaded `loopring_mpc_0002.zip`.
+- I signed my attestation.txt using Keybase crypto sign tool.
+>
+
+**Misc notes:**
+<None>
+
+
+!!!Don't modify anything from this point on!!!
+----------------------------------------------
+Contributing to circuit 1/10...
+Contributing to params/params_all_5.params...
+Contribution hash: 0xac884aba4f165dbbff3f5d90ee3c3d3969cec8fc16b36b3dd15f9c80f6c2b34bdb1acdd29b113ef5824fb5ca1b2829361e73e7f841851463b046d9b3132ef814
+Writing parameters to params/params_all_5.params.
+Contributing to circuit 2/10...
+Contributing to params/params_all_10.params...
+Contribution hash: 0x40fd6786196b440606ec8a2eca56fc2daf5bfc32db7a4c295aff99eb8c51f4dac4398287daa2c5aae21d0dba00b31c3cac5f942b74f5313e24a79ae163e94cea
+Writing parameters to params/params_all_10.params.
+Contributing to circuit 3/10...
+Contributing to params/params_all_25.params...
+Contribution hash: 0xcc999d7bdea6db900c7fe91b1f4bf14dbdac3fb1095ea606f4ddd48d75d42817affe797b82c9c2161c0d1bc15ed6ffd28046f6ce18d8dbec4636b3182d6d5904
+Writing parameters to params/params_all_25.params.
+Contributing to circuit 4/10...
+Contributing to params/params_all_50.params...
+Contribution hash: 0x90bd0757807fb95496e88ad5744c2066f5e6207bb908d721846aafc930fb738ec4ffb9044f184bf04e0380f6535729bab86cd98c03aa9105d32b7c77c2d38739
+Writing parameters to params/params_all_50.params.
+Contributing to circuit 5/10...
+Contributing to params/params_all_100.params...
+Contribution hash: 0x1b6f92c1c98d65abe2b1ce5c8dd182cd962bbee0af93f448212e0f19c2a239925ae57c6a33ab0b318ba61595c87d45456ebdfe1dff1bc71c1b131ab385217d44
+Writing parameters to params/params_all_100.params.
+Contributing to circuit 6/10...
+Contributing to params/params_all_150.params...
+Contribution hash: 0xe6b94f22083d6d1a3c6c9fae1ad812ad5b8d3bbc6bd314f4f26cd83ce862d7a169979cda6dc5b46395dcf6a9b59b5bdfa4eee605d2a13b9151e88029ee4e93da
+Writing parameters to params/params_all_150.params.
+Contributing to circuit 7/10...
+Contributing to params/params_all_200.params...
+Contribution hash: 0xc1a02322f2ada6916fe844c5811a5bdfb3e70bd7be22117fbf2b2a5a7f12c5c4297633c8731e8c66c14b5dab00d52c3f8a9bb8858c9abbe5e05a77fae6e52f99
+Writing parameters to params/params_all_200.params.
+Contributing to circuit 8/10...
+Contributing to params/params_all_250.params...
+Contribution hash: 0x17f78a729328e4672088e1657c3520919b3214b0cf015ae3474694839d61bd6e41016f95fcded463b1518a621c23938e40e1392e61b62f2ff67f807260a98152
+Writing parameters to params/params_all_250.params.
+Contributing to circuit 9/10...
+Contributing to params/params_all_300.params...
+Contribution hash: 0xa3cca9380b379e080d3f29f4f0fb22d396f1f72b302c2a500907b583c1ec1309463bc4f6202c5540702b6849acc001c9314facf1367b12c704f993d1030534d1
+Writing parameters to params/params_all_300.params.
+Contributing to circuit 10/10...
+Contributing to params/params_all_355.params...
+Contribution hash: 0xcc824adc5a4daeae2154e5775852fe83b0b9471814b26c93e5e30c3c0020c3beb029c298782bc8c26128e2c4cde88873e49cd16abf2d7cc00c011c1f8ab73257
+Writing parameters to params/params_all_355.params.
+
+Done! Thank you for contributing as participant 2!
+Your contribution has SHA256 hash 0xd2bedbeb0cca3426cf61c7552176230b5278e2851a778ee7f13dc13f795b89a4
+Please upload 'loopring_mpc_0002.zip'.
+Also please download and fill out 'attestation.txt' on your local Mac and sign it by running 'keybase pgp sign --clearsign -i attestation.txt -o signed_attestation.txt' and send us 'signed_attestation.txt'.
+Contributing took 48581.89275312424 seconds.
+
+BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zkUIvKoA NyULAA3CNDQteYe dFGTYqX2I1F5U2X EVEEIlvfUN9N3jf T013JLARJAunkb7 GFehCiFBG9t3nRq 8giVUoCVeUkpKkg DeLlakjDFxNzhdF Nbn56wdXXJnWWfQ 0qGKmIuHX8LLjfm NeprS50WYmIhgfs H3Q4E138Wr9Tndz FiwNVuausfe12tH fBrVxNLYEZJbjC1 o0a7RZsNqkTVMf6 r4jVJn70fexTLaW LV7EWLQiIOvbkxv AjsLguhadafXOpl JvUdRgfFrfPI1Ap EHO1jRLQXoP22a3 RX0UpYYVhICmMiE RRKnE8Tfyh0rdIH NkT5pOkN5q2v8fC DjupInKztqaPuOG 3KxawpDmY5PyQBd 9USqPf8LGdDEhpb hKTUEFLKRdPsPFr vbNZdtP69USinre lnSTbFqJMDoawgC zZ3jwhhxsDo1yLB fxn4UHA0GhiQSVJ WsJktw2GXcu3VF6 OVBO2Dp0hZTDvkj oDwHDEPhQIhZiy5 5g1vluLCgP3plEO MZJzb1kXS7B4Z02 olpER8RJ9R7qu3h 0mcVMbhwS4Yv9ME bpWLjiojpU1NzBF cXRb9cuyn9SOtvj XfoGR7cG4ZPgFJ5 hIRBnDhXV40Qgqr OHRIpTEUdDX3N7i NrEoG7skmc14iOB lyUrHLUDltDEvQB 9wagF881BOdB5bd MIfbR5SVoyGLU3M Aj41dNO8YDVQeLH I5gb1izwGY2WiVa 5nwB4GWDN51Cmsl erb8hkX7lRNQQur REz4ewP8wmX4QPI S4jKxpewes0ocCz 31L5ONr7h5vXt3r mLWFPG0wHYCvzNA hwVL6MlFK7fZEnR FUTeuIbAAd06JCF TinrRdr5t9j7b1z lxghtBHMyuy8sM9 OJL7gLlR5XiBI0P lsQQbzhQNX9LPtm pIVY68K8GJQHe3z BAiBk8HdjXx2X1p 7ZJScZRfJhsoFsB jHD5Q0f9QHYKYXA iBk8HdJ1vFC42AT 05OUtueUkvRIwR5 l5oGKvf5RK5HBfA Yv3X0obQmugkWRK R8ciSgcksWpd3AO 2HWOCI6YxmN6OCf k4wzXhOIRReDAtG unhRh7YfWJa8YYU APa1VTbi7gSeJPf YjOBiuLt3zjlOAX 06jK3BMWIkqHtzM yK4PkHBTWVoE2ak DHpRhm7dTwyvqxh JWryV9f4yuStSIu pmgaBTZQCWuTjQL EVZ5n9bpxWzMerz jXnOmh5yoPjyUKp s3N2wKB7V2PFelc AvFlv3xtw3ERqCZ OI6DoDvENKUfdas C8dFpD9H4E2Bv64 oNorNBqn53EGncQ 5N81fXBdpuj6eQe EQJoQpEGNBKN25b Fn61QCBgoQla4ih BZ9WmR8VlIqR85k UvIY7LDkV4YBiqQ F2cHImH5VWDuAEP bH0Shi3L2R85kUv IY7LDkV4YBkh9JC esMYzhe4sTCQOId 3FzHsRcB0kZ81lp Q9GT5mJaVtn4cVK X353bV0joYqotVz tj0JsCNHw7Ws5L6 thm7YCBqgCWHt98 kN5jOgpKxVL8u8H r8eN5yPt4SZeYlR Ixgltktm4aoGbG6 ZhHIKXyt3SjxyZ8 rNWVPm3IUig1UsD mne2Y1JAX5eDU0Y m7l4HoEflxdU0JN 5njcFv0sWtcOH9C q4Ru2dO3cSCQ3ZE zdOUHVebjlUv2S2 fzc5CnBZfvBo1c7 BZqs0zMgvoVXTpi v2rkqzAz1lR7dPs yR95VehxFNM7PJd R0Nk35FYRpoKIDi oYofFEed7h9ZF34 0fpqjRIxDUIdqYX 23OboihapYOV3ch pOIoQ37h9ZF3igE 6L9eWE1ZfuEGYdX 4xpOwfOy0j0Viyt 9IJaAwwLhD60h4r 0LbFOCdeWDA5wKf mxqv1ubvg0mMHgP reNo23eHBnvT61z 8gReM8PD8d36dpu ZF9bmWc45Y4Wl0r BQzB5JXsAiP6ieG KjYuzWg0bG5eoT0 kaAQaZM1uPsziDK D8Y55WgyTSaiBft 83A9spgYihoIdLQ tP0KjQHX0YXBfdn byCyNOoZPtxGhG1 KiiK4WZCEDYQL2s NACiWkwcx7gv8Op qT1xfVnx5bEZ1S6 HNwExWlwdUfj8pb O7UVn4eMZaCIq65 uSQR7kzabTdk7eG Kx1pdc2vYkoNxfa eal07RqCaSc3C6B iECQekFlGFdg1PI mhW2XHOjWTHIJe1 cmHPx8zZJ5xMba6 3ntNBZDeosIIxKZ 0QO9aieLaTMLYzB KOzNJMmaJKpkHCm up256EmTjgyZVtm 70f7vGCwwuJzfgD Z8wDxRUcDEf0SQU wIO8nO17QLmNbPd GOO3UXZyxIsDDKJ dOtAYV0nbSycxD8 MEIUCmzMqomOo3H 1hIKQmhBZYCQJtj zk1okdRrpSrX6ks udukp7gxGdUf93r bkTKuIOzNl9NCJa w7IYolUKlo9fdW1 AbO6VL8fB3Gv9xW 4N244CO3U7u6fUG WsReWrRYNfTL91Z xDSUPdnvGNdQfle KH3ZPx8yMVwGRfH WfdKrGdOm19fVM3 HYtwG6nep6MGvHW k4AwwqY26ojsZ4o NXWFzQaUWvQdjiZ aQw3mtDAWIsivFd RMDettdsTJvNSHV XbEM6yAGKS2YyFC MEcKtPtNDZllu7g SeJPfYjOBimZijn wuY7LsTW61yItFG vr1LPLTgriPNWkL Df620214VGIX6sL CpyrL3n18PMngZM bG97zpsunDbiSdy QPYSEY1iw7lxG82 KdiZLsx7hvZXWaE tNpdqdVCeuQ2YLh 8qBo2IHerb6n8g6 aJBYWBorjTG40sF HCWpuC92CsX2A1y yflmSpEB8etdPSu HF2GdlaSvPruvdF cPYQeEQJoQpEGNB KN25bFn61QCBgN1 rFc8QRmdEQOP1Nv zQBv0zcSpS86vwT n9NMHsZ4ANXygWP q2rpQSZrOYFaEJQ Bv0zcSpS86vwTn9 NMHzIHWTAgTSXwl x4A1s2LZhtqpBfS OS42pLQKcqDXwgC ijpFKMoJGu1EXOf
+hcf1V50XZC7dFZS haoy3eTGpMHRi1I RN5rT6LY9Ecx9ws x9ywzZRZBwhJj6H 2LscR0ZIEkoD9xz nBUqZpMOOK4EIlb CDHvb2D8CGINl8x 5BYqT6saJKpWHas 5dEW3K4AT6lXDij 7sEXNKZVWbEVtQI CiBOVqfmLTw9PFp BUhcgoghp69EvCj WLCBZUBhN0dVymC jSQg4Nltj1iuCB9 Gme1PskalVH2LDP BFS62OlUsIomGxe lwMlOg0sI26c65X nfC3CvuU0Iv5hRb UycGCI0dZ2CAUZp tUvpnjRHxFsOvYs mvdFofrjxBNRbUy cGCI0dZAs1bxmoh zKxNj5JvqYquYG8 aI01VVxNBR7dPsv wqx5mytNDroJ5ia XMPr2Ds7qymJdws 3pNz3A1BQaDrGGi GH5fYuzoSUCo8MV 3nZ5xLQ9MTZiiio XhHdtD5OTOmR1zd J5OZZXlkIoNjaXl VuWDsCoUBBpltZL EffCqqyEvhWpi5R D6oZvSTd9EYtz8d 5ZTNAc2lqeqKDxS jNKRkCCzsYzrbKA sWWnxO1cRPYnBub wDh2WmLKU8LHhiP 0PEhcdqOe35ABHv ymP8433uZFiNoiC K6ObDAfw2tPJRMD ettdsTVKS3zilj5 GMVpQkos40u3bvi EKio0QgpvAQLnF0 pnRDzrdantp2FP6 HQnwNflT2TvaPzY sH4ASmTkQLnQCDV xTBjlGm8uiaFv14 6lJVbzsXf9ZVsU3 xSoC5uAusxaZlN7 osZWCO8Mj8e1yL1 aalyWSCRNQdcAyo 3cq1C8gt4M4sgnf FVAKzoz2rFOc1la gToftnXcf3w3ECi N1OENjic626BkvA 2I6vYfr0xJIsewc 0FCTKmLnxtx0G4U NZH1a8C8IRcFyPj KcUL94z6x7NhXhH 1LnXJLoNICv1qBi 2httIvUEjGqq7eD hXlLRmyABWBqUfQ kNV5ichkaAaQeEQ JoQenhKiv8JnDZB h0wXSnTYoTJe1D3 nM23yrArfBu9vMR 2UnXh2lAiVbJTWC H5JE8p7gVQVUC3N 6q6xodXRqCaScIs GPZi77ySRDFLgYZ e4BmLqHnq8mnGx7 qQLFRPx8zZJ5xMb a63ntNBZDdmXAGW RveKBJMY4fFg6O3 5NcR85kUvIY7Ww9 myPcS2ymoczaQuk 2ICrs81HFwPNT7N QDK61rt3BNrfqUT 6gKzwXtytIxABCR hgau0LvYbGUR5ZB QTBVETWnk5mmEUN iGfFEOzs2tMOv8U 9CYgUUrRok20BQr z4vUlg2gJpknDjU xFuHAbnFXWYck27 Ihl0tqAgfzD5Npj mPbXPjX2s2pzmTF veZMZA6Fw2cV2HM MIIbrMXdRbGn3oK KRBG4zkx2XsX5JX ECTTsVtFGDF1oMi jtaKkzR7dPsvwPf obyGrxrPaUOgQDu 11HTN7Xr5okDyhH UrwGBBp5aRyMCVm QnpUjzHaMIWGArh aQOLuLPBeJbkWXY vJR7dPsyR95Vehx Zf4sUiyaIAnuFEt pjTtc2GWayypIxw P07UwddYrycd44B zqi6i4a62UzBnSs rOZ2aIXbRjVeWNz y5nROxmD3GINidk jrntCGG5sPHD8IP f6DycAIaXh5BTOh KW8ej4tBScuYHVm UhHljiAlUmABn4M gIfEVxeCONzo1Rj 7816fbRTgkBuFQy KHvMpJot3rgCkvh QY8drxBBi6CWaec 40ezaeNfsS8Zg0X YevxhgEJmFlLihl sygbYRbpFx6H8vV HFyD6YNzMZSAvZW iTqbI8GRRhCKglR dmQ2Nbrigp2thbQ PYTFUe6sV5ESibz 72AijvYF0LsLiHm LQB9aM7VDtGobmF r0p5EU8S3cxufZg dz2FU5jn333YpFN LYEZJbjC3m4IK9u UTlMyAzgw49Nxll GnuIWjQV2liXNHa JM1F1jD1d2qTFqf LfaU2jjZLMZ3A6w dJFvXybUhUCc2xK NYjBdgEAVbGiQvy G3XkgYwC0yc3uh3 CPLsmM2H7hD97bK BBTOK42aW4YJJMS 9SsgUITQMq8FE2X p4MpjC2QmG6P2qp OqAUsJvApMUWXZr k7qvwZ6Ndkx1LWM sJuZRqoaQFQshyO hCJBp48JWKp3Ctf raOWKDg7PJmwUB4 AVN6JUH87PGbWEy hZZ4FC2s3eLLpJq YhzN6Uoog3QqWWB O3sonCHN8BGt7EL kdmHfXpyqa29Lpk d0251GPnOkd6XRc 81GtW8fvK9Dsdxj eni9OG0qcNk7m5t uvQrUlWbRnVRbUz VCPrjMSSGh5b9Pc 4PHI7MS9CiDxSiL hMsfGruWSRbGnvX Qv8jftyI5aBgYpb ivnJzT5tS6keB0g xk44K475PwmqRK5 oSvc2zoloDFR9LN JuYN8cRYtQk3dLq . END KEYBASE SALTPACK SIGNED MESSAGE.
